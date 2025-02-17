@@ -1,6 +1,6 @@
 streamlit
-transformers
-torch
+torch==1.13.1
+transformers==4.31.0
 tokenizers
 scipy  # Optional, based on requirements
 accelerate  # Optional, for optimized performance
