@@ -1,7 +1,7 @@
-streamlit
-transformers
-torch
+streamlit==1.25.0
+transformers==4.31.0
+torch==1.13.1  # A stable version
+tokenizers==0.13.3
 xformers
-tokenizers
 scipy  # Optional, based on requirements
 accelerate  # Optional, for optimized performance
