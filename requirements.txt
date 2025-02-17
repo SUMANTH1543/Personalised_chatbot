@@ -1,6 +1,7 @@
 streamlit==1.25.0
 transformers==4.31.0
 torch==2.0.0
+xformers
 tokenizers==0.13.3
 scipy  # Optional, based on requirements
 accelerate  # Optional, for optimized performance
