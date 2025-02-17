@@ -9,7 +9,7 @@ chatbot = pipeline(
     "text-generation",
     model=MODEL_NAME,
     tokenizer=tokenizer,
-    device=-1  # Force CPU usage
+    device="cpu"  # Force CPU usage
 )
 
 def get_response(user_input):
