@@ -1,6 +1,6 @@
 transformers
 tokenizers
-torch==2.1.0
+torch==2.2.0
 xformers==0.0.16
 scipy  # Optional, based on requirements
 accelerate  # Optional, for optimized performance
