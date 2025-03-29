@@ -1,5 +1,5 @@
 # 🤖 AI Chatbot (CPU-Optimized)
-A personalized AI chatbot built using Hugging Face's microsoft/DialoGPT-medium model and deployed with Streamlit for an engaging user experience.
+A personalized AI chatbot built using facebook/blenderbot-400M-distill model and deployed with Streamlit for an engaging user experience.
 This chatbot is optimized for CPU usage, ensuring it runs efficiently on systems without a GPU.
 
 # 🔧 Features
