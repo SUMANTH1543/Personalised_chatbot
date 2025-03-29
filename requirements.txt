@@ -1,5 +1,5 @@
-transformers==4.31.0
-tokenizers==0.13.3
+transformers
+tokenizers
 torch
 xformers==0.0.16
 scipy  # Optional, based on requirements
